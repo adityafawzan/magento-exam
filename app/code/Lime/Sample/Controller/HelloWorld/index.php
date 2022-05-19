@@ -1,8 +1,8 @@
 <?php
 
-namespace Lime\Sample\Controller\Index;
+namespace Lime\Sample\Controller\HelloWorld;
 
-class Test extends \Magento\Framework\App\Action\Action
+class Index extends \Magento\Framework\App\Action\Action
 {
   protected $_pageFactory;
 
